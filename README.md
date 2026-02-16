@@ -52,7 +52,8 @@ Projeto desenvolvido como prática de planejamento e implementação de redes co
 Segue imagens do projeto: <br><br>
 <img width="906" height="320" alt="red01" src="https://github.com/user-attachments/assets/569c7c2c-04d8-4311-8918-8d425d23795e" /> <br><br>
 <img width="522" height="463" alt="red02" src="https://github.com/user-attachments/assets/f4a83672-eda9-4331-99ff-9032f2cbea54" /> <br><br>
-<img width="522" height="463" alt="red02" src="https://github.com/user-attachments/assets/8595f047-1d35-4bc3-8cef-20fdb1e783c5" /> <br><br>
+<img width="522" height="174" alt="red04" src="https://github.com/user-attachments/assets/23f80976-e82b-411e-8f50-c9ad34759ed6" />
+ <br><br>
 <img width="520" height="455" alt="red03" src="https://github.com/user-attachments/assets/dd41eafb-4b47-40cb-8a24-61daa4ffe924" />
 
 
